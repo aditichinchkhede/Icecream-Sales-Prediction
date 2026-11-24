@@ -83,7 +83,7 @@ ice-cream-sales-prediction/
 The model fits a degree-4 polynomial curve to the observed temperature and ice cream sales data. The R² score is calculated to evaluate how well the model fits the dataset.
 
 ## 👩‍💻 Author
-**Your Name**
+**Aditi Chinchkhede**
 
 ---
 
